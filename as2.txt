@@ -1,2 +1,21 @@
 this is my second assignmnet 
 i will be commit change in this after i push this assignment
+
+
+changes to be done in the ass 2
+here i will be learning about the modifying the data .
+git init
+git add .
+git status
+git remote add origin master"url of the remote repository"
+git commit -m "First Commit"
+git status
+git push -u origin master
+
+git add .
+git status
+git commit -m "second COmmit""
+git status
+git push
+
+3. modifying
